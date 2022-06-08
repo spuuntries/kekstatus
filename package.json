@@ -1,0 +1,15 @@
+{
+  "name": "kekstatus",
+  "version": "0.1.0-alpha",
+  "description": "Status module for kekbot.",
+  "main": "index.js",
+  "repository": "https://github.com/spuuntries/kekstatus.git",
+  "author": "spuun <kek@spuun.art>",
+  "license": "agpl-3.0-only",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1",
+    "pm2": "^5.2.0"
+  }
+}
